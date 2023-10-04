@@ -57,7 +57,7 @@ Temas 2 y 3 del temario del curso.
 Existen diferentes entornos de desarrollo (IDEs) para desarrollar código Java, pero tanto en esta práctica como en las siguientes, se darán indicaciones para [**Eclipse**](http://www.eclipse.org).
 
 <!-- Creo que la siguiente línea está repetida -->
-En Eclipse debe seguir los siguientes pasos:
+<!-- En Eclipse debe seguir los siguientes pasos: -->
 
 En Eclipse debe seguir los siguientes pasos:
 
@@ -65,7 +65,7 @@ En Eclipse debe seguir los siguientes pasos:
 - Importe el proyecto con _Import->Existing Projects into Workspace_ e indique la localización del fichero zip descargado usando la opción _Select archive file_.
 - Dentro del proyecto, en la carpeta _src_, encontrará un paquete llamado **es.upm.dit.fprg23.p1**, siguiendo el convenio más extendido de nomenclatura de paquetes: Práctica 1 (**p1**) de la asignatura FPRG Curso 2023-2024 (**fprg23**) del Departamento de Ingeniería de Sistemas Telemáticos (**dit**) de la Universidad Politécnica de Madrid (**upm**) de España (**es**).
 - También encontrará la clase ``PruebaPaciente.java``.
-- Todas las clases que desarrolle deben de estar en el paquete _es.upm.dit.fprg23.p1_.
+- Todas las clases que desarrolle deben de estar en el paquete _es.upm.dit.fprg23.p1_
 
 En este punto, ya deberíamos poder ver la clase ``PruebaPaciente.java`` en nuestro espacio de trabajo y, si la abrimos, podremos ver su código, que se utilizará en la siguiente tarea.
 
