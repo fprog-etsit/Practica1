@@ -55,7 +55,8 @@ Temas 2 y 3 del temario del curso.
 ### Creación del proyecto
 
 Existen diferentes entornos de desarrollo (IDEs) para desarrollar código Java, pero tanto en esta práctica como en las siguientes, se darán indicaciones para [**Eclipse**](http://www.eclipse.org).
-[comment]: <> (Creo que la siguiente línea está repetida)
+
+<!-- Creo que la siguiente línea está repetida -->
 En Eclipse debe seguir los siguientes pasos:
 
 En Eclipse debe seguir los siguientes pasos:
