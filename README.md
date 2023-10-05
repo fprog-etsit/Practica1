@@ -126,7 +126,7 @@ Esta tarea consiste en extender dicha clase para que las pruebas que se incluyen
 
 ## Entrega de la práctica
 
-La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día 17 de Octubre de 2023.
+La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día 18 de Octubre de 2023.
 
 Se debe entregar el fichero .zip generado como resultado de exportar el proyecto. Dicho fichero debe contener todas las carpetas y ficheros asociados al proyecto. Para realizar la exportación, siga los siguientes pasos:
 
