@@ -23,7 +23,7 @@
 
 ## Introducción
 
-Durante este curso, se van a realizar una serie de prácticas para desarrollar un sistema para gestionar los dispositivos médicos en un hospital. Dentro de los sistemas de gestión de hospitales, encontraremos modelos similares al que se va a desarrollar en estas prácticas. No obstante, para ser coherentes con el temario desarrollado en las clases teóricas, se asumirán ciertas simplificaciones que en un sistema profesional del campo de la ingeniería no serían tolerables. Se menciona esto para que el alumno sea consciente de que esta práctica es un trabajo introductorio al mundo de la programación.
+Durante este curso, se van a realizar una serie de prácticas para desarrollar un sistema para gestionar los dispositivos médicos en un hospital. Dentro de los sistemas de gestión de hospitales, encontraremos modelos similares al que se va a desarrollar en estas prácticas. No obstante, para ser coherentes con el temario desarrollado en las clases teóricas, se asumirán ciertas simplificaciones que en un sistema profesional del campo de la ingeniería no serían tolerables. Por ejemplo, como se verá más adelante, usaremos tipos de coma flotante para cantidades monetarias, cuando debería usarse un formato de coma fija. a Se menciona esto para que el alumno sea consciente de que esta práctica es un trabajo introductorio al mundo de la programación.
 
 En esta primera práctica, vamos a desarrollar la capa del modelo de datos de nuestro sistema. Concretamente, vamos a diseñar un modelo que nos permita representar de forma simplificada los dispositivos médicos del hospital. Dicho modelo nos permitirá obtener y gestionar ciertos datos e información sobre cada dispositivo. 
 
@@ -119,7 +119,7 @@ Esta tarea consiste en extender dicha clase para incluir pruebas que validen tod
 
 ### Entrega de la práctica
 
-La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día XXX de Octubre de 2024.
+La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día 23 de Octubre de 2024.
 
 Se debe entregar el fichero .zip generado como resultado de exportar el proyecto. Dicho fichero debe contener todas las carpetas y ficheros asociados al proyecto. Para realizar la exportación, siga los siguientes pasos:
 
