@@ -119,7 +119,7 @@ Esta tarea consiste en extender dicha clase para incluir pruebas que validen tod
 
 ### Entrega de la práctica
 
-La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día 23 de Octubre de 2024.
+La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del día 16 de Octubre de 2024.
 
 Se debe entregar el fichero .zip generado como resultado de exportar el proyecto. Dicho fichero debe contener todas las carpetas y ficheros asociados al proyecto. Para realizar la exportación, siga los siguientes pasos:
 
